@@ -14,9 +14,9 @@ module.exports = (() => {
       name: "CustomBadge",
       authors: [
         {
-          name: "NinjaPanic",
-          discord_id: "1200195920923463700",
-          github_username: "NinjaPanic"
+          name: "jasaryi",
+          discord_id: "1399402410010611833",
+          github_username: "malloryguy2013-sudo"
         }
       ],
       version: "4.0.0",
